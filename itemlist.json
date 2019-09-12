@@ -3625,102 +3625,6 @@
 		"defname": "GroundPenetratingScanner"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestkrudneppsinglebed",
-		"price": 172,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingleGuest"
-	},
-	{
-		"abr": "guestpilfurbed",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "PILFURBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "guestslabneppdoublebed",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "SLABNEPPDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggdoublebed",
-		"price": 517,
-		"category": "Furniture",
-		"defname": "SNOREGGDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggsinglebed",
-		"price": 276,
-		"category": "Furniture",
-		"defname": "SNOREGGSingleGuest"
-	},
-	{
 		"abr": "guineapig",
 		"price": 100,
 		"category": "Animal",
@@ -8993,7 +8897,1153 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "aachoneybadger",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_AACHoneyBadger_rt"
+	},
+	{
+		"abr": "ak-12",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_AKTwelve"
+	},
+	{
+		"abr": "ak-12",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK12_rt"
+	},
+	{
+		"abr": "ak-47",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_AKFortySeven"
+	},
+	{
+		"abr": "ak-47",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK47_rt"
+	},
+	{
+		"abr": "ak-5c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK5C_rt"
+	},
+	{
+		"abr": "aks-74u",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_AKSSeventyFourU"
+	},
+	{
+		"abr": "an-m14th3incendiarygrenade",
+		"price": 100,
+		"category": "Grenades",
+		"defname": "Weapon_ANM14TH3IncendiaryGrenade_rt"
+	},
+	{
+		"abr": "awm",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "Gun_AWM_rt"
+	},
+	{
+		"abr": "barm1918",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_BARM1918_rt"
+	},
+	{
+		"abr": "barrettm82a1",
+		"price": 3617,
+		"category": "Ranged weapons",
+		"defname": "Gun_Barrett_rt"
+	},
+	{
+		"abr": "baton",
+		"price": 91,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Baton"
+	},
+	{
+		"abr": "berettam12",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_BerettaM12_rt"
+	},
+	{
+		"abr": "berettam9",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_BerettaM9_rt"
+	},
+	{
+		"abr": "butcherknife",
+		"price": 139,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Butcherknife"
+	},
+	{
+		"abr": "coltpython",
+		"price": 325,
+		"category": "Ranged weapons",
+		"defname": "Gun_ColtPythonRevolver_rt"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound_rt"
+	},
+	{
+		"abr": "crowbar",
+		"price": 125,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Crowbar"
+	},
+	{
+		"abr": "cz-3a1",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_CZ3A1_rt"
+	},
+	{
+		"abr": "deserteagle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deagle_rt"
+	},
+	{
+		"abr": "dp-12",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "Gun_DP12_rt"
+	},
+	{
+		"abr": "dragunov",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_Dragunov_rt"
+	},
+	{
+		"abr": "famas",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_FAMAS_rt"
+	},
+	{
+		"abr": "fireaxe",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Fireaxe"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 167,
+		"category": "Ranged weapons",
+		"defname": "Ranged_FireExtinguisher_rt"
+	},
+	{
+		"abr": "firefoamgrenade",
+		"price": 100,
+		"category": "Grenades",
+		"defname": "Weapon_FirefoamGrenade_rt"
+	},
+	{
+		"abr": "firefoamgrenadelite",
+		"price": 100,
+		"category": "Grenades",
+		"defname": "Weapon_FirefoamGrenadeLite_rt"
+	},
+	{
+		"abr": "fnf2000",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_FNF2000_rt"
+	},
+	{
+		"abr": "fnfal",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_FNFAL"
+	},
+	{
+		"abr": "fnfal",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_FNFAL_rt"
+	},
+	{
+		"abr": "fnfiveseven",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Gun_FiveSeven_rt"
+	},
+	{
+		"abr": "fnp90",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_P90_rt"
+	},
+	{
+		"abr": "fnscar-l",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_SCARL_rt"
+	},
+	{
+		"abr": "gerbersurvivalknife",
+		"price": 318,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Gerber"
+	},
+	{
+		"abr": "glock17",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_Glock17_rt"
+	},
+	{
+		"abr": "hkg36c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_HKG36C_rt"
+	},
+	{
+		"abr": "hkg3a3",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_G3A3_rt"
+	},
+	{
+		"abr": "hkmp7",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_HKMP7_rt"
+	},
+	{
+		"abr": "hkump45",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_HK_UMP45_rt"
+	},
+	{
+		"abr": "hkxm8",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_XM8_rt"
+	},
+	{
+		"abr": "huntsmanknife",
+		"price": 272,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Huntsman"
+	},
+	{
+		"abr": "infernorifle",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Weapon_InfernoRifle_rt"
+	},
+	{
+		"abr": "iwitavor",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_IWITavor_rt"
+	},
+	{
+		"abr": "karabiner98kurz",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Gun_Karabiner98kurz_rt"
+	},
+	{
+		"abr": "karambit",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Karambit"
+	},
+	{
+		"abr": "katana",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Katana"
+	},
+	{
+		"abr": "khukuriknife",
+		"price": 350,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Kuri"
+	},
+	{
+		"abr": "krissvector",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_KrissVector"
+	},
+	{
+		"abr": "krissvector",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_KRISSvector_rt"
+	},
+	{
+		"abr": "l-20lmg",
+		"price": 1642,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "l85a2",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_L85A2_rt"
+	},
+	{
+		"abr": "l96a1",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_L96A1_rt"
+	},
+	{
+		"abr": "lugerp08",
+		"price": 278,
+		"category": "Ranged weapons",
+		"defname": "Gun_LugerP08_rt"
+	},
+	{
+		"abr": "lvoa-c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_LVOAC_rt"
+	},
+	{
+		"abr": "m1garand",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1Garand_rt"
+	},
+	{
+		"abr": "m1014",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1014_rt"
+	},
+	{
+		"abr": "m14",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_M14_rt"
+	},
+	{
+		"abr": "m18smokegrenades",
+		"price": 500,
+		"category": "Grenades",
+		"defname": "Weapon_M18SmokeGrenade_rt"
+	},
+	{
+		"abr": "m1911",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1911_rt"
+	},
+	{
+		"abr": "m32grenadelauncher",
+		"price": 1892,
+		"category": "Ranged weapons",
+		"defname": "Gun_M32MGL_rt"
+	},
+	{
+		"abr": "m4",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_M4A4_rt"
+	},
+	{
+		"abr": "m4",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_M4_rt"
+	},
+	{
+		"abr": "m60",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_MSixty"
+	},
+	{
+		"abr": "m67fraggrenadepack",
+		"price": 100,
+		"category": "Grenades",
+		"defname": "Weapon_M67FragGrenade_rt"
+	},
+	{
+		"abr": "m72l.a.wrocketlauncher",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_M72LAW_rt"
+	},
+	{
+		"abr": "m72law",
+		"price": 85,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_M72LAW"
+	},
+	{
+		"abr": "m79grenadelauncher",
+		"price": 1758,
+		"category": "Ranged weapons",
+		"defname": "Gun_M79_rt"
+	},
+	{
+		"abr": "m84flashbanggrenadepack",
+		"price": 100,
+		"category": "Grenades",
+		"defname": "Weapon_M84FlashbangGrenade_rt"
+	},
+	{
+		"abr": "m9bayonet",
+		"price": 245,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Mbayonet"
+	},
+	{
+		"abr": "machete",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Machete"
+	},
+	{
+		"abr": "mg42",
+		"price": 1917,
+		"category": "Ranged weapons",
+		"defname": "Gun_MG42_rt"
+	},
+	{
+		"abr": "militaryshovel",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "RT_MeleeWeapon_Militaryshovel"
+	},
+	{
+		"abr": "milkormgl",
+		"price": 475,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_MilkorMGL"
+	},
+	{
+		"abr": "mp18",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_MP18_rt"
+	},
+	{
+		"abr": "mp40",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_MP40_rt"
+	},
+	{
+		"abr": "p7",
+		"price": 281,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_PSeven"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "pkm",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_PKM"
+	},
+	{
+		"abr": "pkm",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_PKM_rt"
+	},
+	{
+		"abr": "ppsh-41",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_PPSH_41_rt"
+	},
+	{
+		"abr": "ptrs-41",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_PTRS"
+	},
+	{
+		"abr": "qbz-97",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_QBZ97_rt"
+	},
+	{
+		"abr": "r-11precisionrifle",
+		"price": 1533,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "rm2flamethrower",
+		"price": 475,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_Flamethrower"
+	},
+	{
+		"abr": "rpd",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_RPD"
+	},
+	{
+		"abr": "rpg-7",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_RPGSeven"
+	},
+	{
+		"abr": "rpg-7",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_RPG_rt"
+	},
+	{
+		"abr": "sawm249",
+		"price": 1125,
+		"category": "Ranged weapons",
+		"defname": "Gun_SAWM249_rt"
+	},
+	{
+		"abr": "shuriken",
+		"price": 116,
+		"category": "Ranged weapons",
+		"defname": "Weapon_Shuriken_rt"
+	},
+	{
+		"abr": "sickle",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "RT_MeleeWeapon_Sickle"
+	},
+	{
+		"abr": "škorpionvz.61",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Skorpionvz61_rt"
+	},
+	{
+		"abr": "sks",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_SKS"
+	},
+	{
+		"abr": "slingshot",
+		"price": 93,
+		"category": "Ranged weapons",
+		"defname": "Weapon_Slingshot_rt"
+	},
+	{
+		"abr": "spas-12",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_SPAS12_rt"
+	},
+	{
+		"abr": "steyrssg08",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_SteyrSSG08_rt"
+	},
+	{
+		"abr": "steyrstg77aug",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_Steyr_Stg77AUG_rt"
+	},
+	{
+		"abr": "svd",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_SVD"
+	},
+	{
+		"abr": "swmagnum",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "Gun_SWMagnum_rt"
+	},
+	{
+		"abr": "tac-50",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_TacFifty"
+	},
+	{
+		"abr": "tacticalcrossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Bow_TCrossbow_rt"
+	},
+	{
+		"abr": "taurusjudge",
+		"price": 213,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_TaurusJudge"
+	},
+	{
+		"abr": "thompsonsubmachinegun",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thompson_Submachine_Gun_rt"
+	},
+	{
+		"abr": "tomahawkthrowingaxe",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Weapon_TomahawkThrowingAxe_rt"
+	},
+	{
+		"abr": "usas-12",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_USASTwelve"
+	},
+	{
+		"abr": "usas-12",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_USAS12_rt"
+	},
+	{
+		"abr": "uzi",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Gun_Uzi_rt"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_VSSVintorez_rt"
+	},
+	{
+		"abr": "weaponassemblytable",
+		"price": 758,
+		"category": "Production",
+		"defname": "RT_WeaponAssemblyTable"
+	},
+	{
+		"abr": "winchester1887",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "Gun_Winchester87_rt"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestsnoreggdoublebed",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "SNOREGGDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestslabneppdoublebed",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SLABNEPPDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggsinglebed",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "SNOREGGSingleGuest"
+	},
+	{
+		"abr": "guestkrudneppsinglebed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestpilfurbed",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "PILFURBedGuest"
+	},
+	{
+		"abr": "rpg-7grenade(thermobaric)",
+		"price": 62,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Thermobaric"
+	},
+	{
+		"abr": "rpg-7grenade(heat)",
+		"price": 39,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_HEAT"
+	},
+	{
+		"abr": "rpg-7grenade(frag)",
+		"price": 30,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Frag"
+	},
+	{
+		"abr": "crossbowbolt(plasteel)",
+		"price": 6,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Plasteel"
+	},
+	{
+		"abr": "shuriken(plasteel)",
+		"price": 5,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Plasteel"
+	},
+	{
+		"abr": "slingbullet(plasteel)",
+		"price": 5,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Plasteel"
+	},
+	{
+		"abr": "tomahawk(plasteel)",
+		"price": 5,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Plasteel"
+	},
+	{
+		"abr": "40x46mmgrenade(emp)",
+		"price": 4,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_EMP"
+	},
+	{
+		"abr": "40x46mmgrenade(he)",
+		"price": 4,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_HE"
+	},
+	{
+		"abr": "8x35mmchargedcartridge",
+		"price": 2,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(conc.)",
+		"price": 2,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_AP"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(ion)",
+		"price": 2,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_Ion"
+	},
+	{
+		"abr": ".50bmgcartridge(he)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_HE"
+	},
+	{
+		"abr": ".50bmgcartridge(sabot)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_Sabot"
+	},
+	{
+		"abr": ".50bmgcartridge(ap-i)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_Incendiary"
+	},
+	{
+		"abr": "crossbowbolt(steel)",
+		"price": 1,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Steel"
+	},
+	{
+		"abr": ".50bmgcartridge(fmj)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_FMJ"
+	},
+	{
+		"abr": "shuriken(steel)",
+		"price": 1,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Steel"
+	},
+	{
+		"abr": "slingbullet(steel)",
+		"price": 1,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Steel"
+	},
+	{
+		"abr": "tomahawk(steel)",
+		"price": 1,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Steel"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(ap-i)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_Incendiary"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(hp)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_HP"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(ap-i)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_Incendiary"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(hp)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_HP"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(hp)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_HP"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(fmj)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_FMJ"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(ap)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_AP"
+	},
+	{
+		"abr": ".500s&wmagnumcartridge(hp)",
+		"price": 0,
+		"category": ".500 S&W Magnum",
+		"defname": "Ammo_500SWMagnum_HP"
+	},
+	{
+		"abr": ".50aecartridge(hp)",
+		"price": 0,
+		"category": ".50 AE",
+		"defname": "Ammo_50AE_HP"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(fmj)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_FMJ"
+	},
+	{
+		"abr": ".410boreshell(buck)",
+		"price": 0,
+		"category": ".410 Bore",
+		"defname": "Ammo_410Bore_Buck"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(fmj)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_FMJ"
+	},
+	{
+		"abr": "crossbowbolt",
+		"price": 0,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Stone"
+	},
+	{
+		"abr": ".500s&wmagnumcartridge(fmj)",
+		"price": 0,
+		"category": ".500 S&W Magnum",
+		"defname": "Ammo_500SWMagnum_FMJ"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(ap)",
+		"price": 0,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_AP"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(hp)",
+		"price": 0,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_HP"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(ap)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_AP"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(hp)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_HP"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(ap)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_AP"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(hp)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_HP"
+	},
+	{
+		"abr": ".45coltcartridge(ap)",
+		"price": 0,
+		"category": ".45 Colt",
+		"defname": "Ammo_45Colt_AP"
+	},
+	{
+		"abr": ".50aecartridge(fmj)",
+		"price": 0,
+		"category": ".50 AE",
+		"defname": "Ammo_50AE_FMJ"
+	},
+	{
+		"abr": ".45coltcartridge(hp)",
+		"price": 0,
+		"category": ".45 Colt",
+		"defname": "Ammo_45Colt_HP"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(fmj)",
+		"price": 0,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_FMJ"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(fmj)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_FMJ"
+	},
+	{
+		"abr": ".357magnumcartridge(ap)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_AP"
+	},
+	{
+		"abr": ".357magnumcartridge(hp)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_HP"
+	},
+	{
+		"abr": "5.45x39mmsovietcartridge(ap)",
+		"price": 0,
+		"category": "5.45x39mm Soviet",
+		"defname": "Ammo_545x39mmSoviet_AP"
+	},
+	{
+		"abr": "5.45x39mmsovietcartridge(hp)",
+		"price": 0,
+		"category": "5.45x39mm Soviet",
+		"defname": "Ammo_545x39mmSoviet_HP"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(fmj)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_FMJ"
+	},
+	{
+		"abr": ".45coltcartridge(fmj)",
+		"price": 0,
+		"category": ".45 Colt",
+		"defname": "Ammo_45Colt_FMJ"
+	},
+	{
+		"abr": "5.45x39mmsovietcartridge(fmj)",
+		"price": 0,
+		"category": "5.45x39mm Soviet",
+		"defname": "Ammo_545x39mmSoviet_FMJ"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(ap)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_AP"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(hp)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_HP"
+	},
+	{
+		"abr": ".357magnumcartridge(fmj)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_FMJ"
+	},
+	{
+		"abr": "shuriken(stone)",
+		"price": 0,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Stone"
+	},
+	{
+		"abr": "slingbullet(stone)",
+		"price": 0,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Stone"
+	},
+	{
+		"abr": "tomahawk(stone)",
+		"price": 0,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Stone"
+	},
+	{
+		"abr": "4.6x30mmcartridge(ap)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_AP"
+	},
+	{
+		"abr": "4.6x30mmcartridge(hp)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_HP"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(fmj)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_FMJ"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(ap)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_AP"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(hp)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_HP"
+	},
+	{
+		"abr": "4.6x30mmcartridge(fmj)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_FMJ"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(fmj)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_FMJ"
+	},
+	{
+		"abr": ".32acpcartridge(fmj)",
+		"price": 0,
+		"category": ".32 ACP",
+		"defname": "Ammo_32ACP_FMJ"
 	}
 	],
-	"total": 1499
+	"total": 1690
 }
